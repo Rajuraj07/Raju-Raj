@@ -18,6 +18,8 @@ Front-End-Development Proficiency:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajuraj07&show_icons=true&locale=en&layout=compact" alt="rajuraj07" /></p>
 </br>
 </br>
+</br>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajuraj07&" alt="rajuraj07" /></p>
 
 </br>
