@@ -22,7 +22,7 @@ Front-End-Development Proficiency:
 </br>
 <h3 align="left">Connect with me:</h3>
 </br>
-<p align="right">
+<p align="left">
 <a href="https://codepen.io/@raju-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@raju-raj" height="30" width="80" /></a>
 <a href="https://linkedin.com/in/raju-raj-755a1b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju-raj-755a1b21b" height="30" width="80" /></a>
 <a href="https://fb.com/ahammad.raju11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahammad.raju11" height="30" width="80" /></a>
